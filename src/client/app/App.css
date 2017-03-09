@@ -1,0 +1,19 @@
+p {
+  color: red;
+}
+
+form {
+  padding: 10px;
+}
+
+.form-group{
+  padding: 0 10px 0 10px;
+}
+
+.result-container {
+  padding-top: 50px;
+}
+
+.result-container h2 {
+  color: #5764c6;
+}
